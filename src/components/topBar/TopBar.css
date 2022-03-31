@@ -1,0 +1,21 @@
+/** @format */
+
+.topBar {
+  display: flex;
+  color: #fff;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 5px 40px;
+  margin-bottom: 35vh;
+}
+.logo {
+  font-weight: 500;
+  font-size: 20px;
+  margin-left: 100px;
+  flex-basis: 10%;
+}
+.icons {
+  display: flex;
+  width: 40%;
+  justify-content: space-between;
+}
